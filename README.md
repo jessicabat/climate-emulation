@@ -75,8 +75,6 @@ The final 3-step Hybrid U-Net FNO model achieved the following best validation R
 | Validation Time-Mean RMSE       | 0.4473              | 0.2265               |
 | Validation Time-Stddev MAE      | 0.2500              | 0.7560               |
 
-*Note: The actual Kaggle private leaderboard score for this model was 0.92, which successfully surpassed a key grading cutoff.*
-
 ---
 
 ## 6. Limitations & Future Work
