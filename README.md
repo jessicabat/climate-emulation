@@ -2,6 +2,8 @@
 
 ### Jessica Batbayar
 
+[Project Report](https://drive.google.com/file/d/1YTLWbTWJujDqphQyiGHbJUw_1tCXIcQu)
+
 ## Project Overview
 
 This project focuses on developing a deep learning model to accurately emulate a physics-based climate model, specifically to project future climate patterns under varying emissions scenarios. The goal is to significantly reduce the computational cost associated with traditional climate simulations while maintaining high prediction accuracy for key climate variables like temperature and precipitation. My solution leverages a novel **Hybrid U-Net and Fourier Neural Operator (FNO) architecture**, iteratively refined to achieve strong performance.
